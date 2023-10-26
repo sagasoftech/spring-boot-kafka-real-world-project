@@ -61,4 +61,7 @@
 		</plugins>
 	</build>
 
+	<modules>
+		<module>kafka-producer-wikimedia</module>
+	</modules>
 </project>
